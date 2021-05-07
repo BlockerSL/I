@@ -1,5 +1,5 @@
 function Sahand(){
-  history.back();
+  open("https://sahand.netlify.app/");
  
   //بۆ گەڕانەوە بۆ تابی پێشتر
 
